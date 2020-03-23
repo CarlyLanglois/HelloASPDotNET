@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello-aspdotnet", "hello-aspdotnet\hello-aspdotnet.csproj", "{B4C34747-5E7E-4F65-88AB-626A5C071D5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloASPDotNET", "hello-aspdotnet\HelloASPDotNET.csproj", "{B4C34747-5E7E-4F65-88AB-626A5C071D5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
